@@ -8,3 +8,8 @@ Features: Editable preview, Custom branding, Export as PDF/DOCX/TXT
 Tech Stack: Frontend-Streamlit, Backend-FastAPI, AI Model-Gemini 1.5 Pro, Model: gemini-1.5-pro
 
 Scenarios: Startup founder needs employment contract, Freelancer needs NDA, Landlord needs lease agreement.
+
+---
+Made by: Divya
+Project: AI-ML and GenAI
+Year: 2026
